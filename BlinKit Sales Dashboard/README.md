@@ -1,4 +1,4 @@
-<img width="1631" height="190" alt="image" src="https://github.com/user-attachments/assets/fb0cd84c-13f6-4dd6-86e2-e2b5d6e05d3a" /># BlinKit Sales Dashboard
+# BlinKit Sales Dashboard
 ---------
 ## Overview
 
