@@ -69,14 +69,14 @@ The dynamic retail dashboard answers several business questions, providing in-de
 
 3. **Category-wise Profit** - Breakdown of profit by product category
 
-![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/de6e5f0d7a30e1fbf03618a08c34ede766a193c0/Retail%20Dashboard/categorywisetotal.png)
+
 
 
 
 
 4. **Segment-wise Sales Share %** - Breakdown of sales by customer segment
 
-
+![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/eabf80ba3477ef7240ac7010d289378ceee456bf/Retail%20Dashboard/segmentwise.png)
 
 
 5. **Sales by Country** - Sales performance based on different countries
@@ -86,7 +86,7 @@ The dynamic retail dashboard answers several business questions, providing in-de
 
 6. **Top 5 Subcategories** - The best-performing subcategories based on sales
 
-![image](https://github.com/user-attachments/assets/9662c7c6-982f-4665-8e6a-93da8f46a481)
+
 
 
 7. **Bottom 5 Subcategories** - The least-performing subcategories based on sales
