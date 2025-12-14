@@ -59,18 +59,18 @@ The dynamic retail dashboard answers several business questions, providing in-de
 
 1. **KPIs** - Total Sales, Total Profit, Quantity, No. of Orders, Profit Margin
 
-
+![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/41eaf5fa3eaef9e9da9e352c15fcaf7242d03eda/Retail%20Dashboard/kpi1.png)
 
 
 2. **Sales and Profit Analysis** - Understanding overall sales and profitability
 
 
-
+![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/41eaf5fa3eaef9e9da9e352c15fcaf7242d03eda/Retail%20Dashboard/salesvs%20profit.png)
 
 3. **Category-wise Profit** - Breakdown of profit by product category
 
 
-
+![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/41eaf5fa3eaef9e9da9e352c15fcaf7242d03eda/Retail%20Dashboard/categorywise.png)
 
 
 
@@ -86,18 +86,18 @@ The dynamic retail dashboard answers several business questions, providing in-de
 
 6. **Top 5 Subcategories** - The best-performing subcategories based on sales
 
-
+![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/41eaf5fa3eaef9e9da9e352c15fcaf7242d03eda/Retail%20Dashboard/subcate.png)
 
 
 7. **Bottom 5 Subcategories** - The least-performing subcategories based on sales
 
-
+![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/41eaf5fa3eaef9e9da9e352c15fcaf7242d03eda/Retail%20Dashboard/bottomsubcate.png)
 
 
 8. **Yearly Sales Trend** - Understanding how sales evolve over the year
 
 
-
+![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/41eaf5fa3eaef9e9da9e352c15fcaf7242d03eda/Retail%20Dashboard/kpi.png)
 
 ---
 
