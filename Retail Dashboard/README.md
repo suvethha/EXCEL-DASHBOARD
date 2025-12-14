@@ -101,7 +101,7 @@ The dynamic retail dashboard answers several business questions, providing in-de
 
 ## Snapshot of the Dashboard
 
-
+https://github.com/suvethha/EXCEL-DASHBOARD/blob/d86523e454f9df7df62c886556a6b1cfff00854f/Retail%20Dashboard/RetailDashboard.png
 
 ## Conclusion
 
