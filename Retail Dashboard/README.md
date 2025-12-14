@@ -81,7 +81,7 @@ The dynamic retail dashboard answers several business questions, providing in-de
 
 5. **Sales by Country** - Sales performance based on different countries
 
-
+![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/c23f638d09a24b75b587169a8079c34910ff1458/Retail%20Dashboard/total.png)
 
 
 6. **Top 5 Subcategories** - The best-performing subcategories based on sales
