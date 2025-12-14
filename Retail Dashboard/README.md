@@ -69,6 +69,8 @@ The dynamic retail dashboard answers several business questions, providing in-de
 
 3. **Category-wise Profit** - Breakdown of profit by product category
 
+![image](https://github.com/user-attachments/assets/9662c7c6-982f-4665-8e6a-93da8f46a481)
+
 
 
 
