@@ -1,7 +1,12 @@
-BlinKit Sales Dashboard
+<img width="1631" height="190" alt="image" src="https://github.com/user-attachments/assets/fb0cd84c-13f6-4dd6-86e2-e2b5d6e05d3a" /># BlinKit Sales Dashboard
 ---------
-Overview
--
+## Overview
+
 The Blinkit Grocery Dashboard is a dynamic Excel‑based analytics solution designed to help businesses understand and optimize their quick‑commerce performance. It consolidates operational and sales data into an interactive interface, enabling teams to monitor real‑time order trends, customer behavior, and profitability metrics. Built for fast‑moving grocery delivery environments, the dashboard empowers decision‑makers with clear, actionable insights.
 
 The dashboard highlights essential KPIs such as Total Sales, Total Orders, Average Delivery Time, Customer Ratings, and Profit Margin, allowing stakeholders to evaluate performance at a glance. With interactive slicers and filters, users can explore data across cities, product categories, delivery partners, and time periods, making the dashboard adaptable to multiple business scenarios.
+
+## Sample Dataset 
+
+### Orders Table
+
