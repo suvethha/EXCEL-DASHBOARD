@@ -39,6 +39,37 @@ The following primary KPIs:
 The Blinkit Grocery Dashboard answers several business questions by uncovering patterns in sales performance and revenue contribution.
 The dashboard also reveals customer behavior through rating trends and item‑level performance insights.
 
-1. **Primary KPIs** – Total Sales, Average Sales, Number of Items Sold, Average Rating
+**1.** **Primary KPIs** – Total Sales, Average Sales, Number of Items Sold, Average Rating
+
+![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/78dadf9cf7e4fd57c58ea46b14a262a9081c3e96/BlinKit%20Sales%20Dashboard/kpi.png)
+
+**2.** **Fat Content**
+
+![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/78dadf9cf7e4fd57c58ea46b14a262a9081c3e96/BlinKit%20Sales%20Dashboard/fatcontent.png)
+
+**3.** **Fat by Outlet**
+
+![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/78dadf9cf7e4fd57c58ea46b14a262a9081c3e96/BlinKit%20Sales%20Dashboard/fatbyoutlet.png)
+
+**4.** **Item Type**
+
+![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/78dadf9cf7e4fd57c58ea46b14a262a9081c3e96/BlinKit%20Sales%20Dashboard/itemtype.png)
+
+**5.** **Outlet Establishment**
+
+![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/78dadf9cf7e4fd57c58ea46b14a262a9081c3e96/BlinKit%20Sales%20Dashboard/otuletestablishment.png)
+
+**6.** **Outlet Size**
+
+![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/7c794b8738e9fb8eb1abdd1cd90893f517d97712/BlinKit%20Sales%20Dashboard/outletsize.png)
+
+**7.** **Outlet Location**
+
+![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/ae84c1f81cb485b48e7c7cb6e6cd6353e3aa898b/BlinKit%20Sales%20Dashboard/outlet%20location.png)
+
+**8.** **Outlet Type**
+
+![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/ac46fb68202dd5943e1d4347db3172a20dbc8d93/BlinKit%20Sales%20Dashboard/outlettype.png)
+
 
 
