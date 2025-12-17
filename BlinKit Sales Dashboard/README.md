@@ -72,4 +72,10 @@ The dashboard also reveals customer behavior through rating trends and item‑le
 ![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/ac46fb68202dd5943e1d4347db3172a20dbc8d93/BlinKit%20Sales%20Dashboard/outlettype.png)
 
 
+## Snapshot of the Dashboard
+
+![image](https://github.com/suvethha/EXCEL-DASHBOARD/blob/890c9eceb3f0268f97c793e132cbb32bd829e4fb/BlinKit%20Sales%20Dashboard/Blinkit%20sales.png)
+-----
+## Conclusion
+The data shows strong overall sales crossing $1M, driven largely by fruits, vegetables, snacks, and a growing preference for low‑fat, health‑focused products. Medium‑sized outlets in Tier 3 locations emerge as the most profitable, while supermarkets lead in total sales volume. At the same time, grocery stores provide better item visibility, offering a balanced view of performance across formats.
 
